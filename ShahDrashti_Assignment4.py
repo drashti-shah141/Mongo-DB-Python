@@ -1,8 +1,6 @@
 '''
 Author- Drashti Shah
 Date: 02/16/2020
-APAN 5400 Managing Data
-Assignment 4 NoSQL Database-MongoDB
 '''
 
 #Importing the package
